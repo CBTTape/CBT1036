@@ -1,0 +1,15 @@
+2023-04-02 21:52:22.162534 - Initialized conversion of CBT1036
+2023-04-02 21:52:23.756886 - Received SBGOLOB.CBT505.FILE1036 from FILE1036.XMI 
+2023-04-02 21:52:23.759669 - Found $$$#DATE.txt (text/plain) in SBGOLOB.CBT505.FILE1036, moved to FILE1036/$$$#DATE
+2023-04-02 21:52:23.760651 - Found $PDSLOAD.jcl (text/plain) in SBGOLOB.CBT505.FILE1036, moved to FILE1036/$PDSLOAD
+2023-04-02 21:52:23.763441 - De-xmi-ed #APPLPGD to CBT1036/docs/#APPLPGD.pdf
+2023-04-02 21:52:23.766241 - De-xmi-ed #INSCUST to CBT1036/docs/#INSCUST.pdf
+2023-04-02 21:52:23.766314 - Found #PDSLOAD.bin containing application/octet-stream, moved to FILE1036/#PDSLOAD
+2023-04-02 21:52:23.768400 - Found @FIL1036.txt (text/plain) in SBGOLOB.CBT505.FILE1036, moved to FILE1036/@FIL1036
+2023-04-02 21:52:23.771202 - Found ASM.txt (text/plain) in SBGOLOB.CBT505.FILE1036, moved to FILE1036/ASM
+2023-04-02 21:52:23.771214 - Found CNTL.bin containing application/octet-stream, moved to FILE1036/CNTL
+2023-04-02 21:52:23.790914 - Found LOADLIB.xmi (application/xmit) in SBGOLOB.CBT505.FILE1036
+2023-04-02 21:52:23.803259   - Received RECFM=U data, stored XMIT file as CBT1036/LOADLIB.xmi
+2023-04-02 21:52:23.804333 - Found MACLIB.txt (text/plain) in SBGOLOB.CBT505.FILE1036, moved to FILE1036/MACLIB
+2023-04-02 21:52:24.039479 - Found SORTLIB.xmi (application/xmit) in SBGOLOB.CBT505.FILE1036
+2023-04-02 21:52:24.266955   - Received RECFM=U data, stored XMIT file as CBT1036/SORTLIB.xmi
