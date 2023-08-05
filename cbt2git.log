@@ -1,0 +1,15 @@
+2023-08-06 01:04:55.759425 - Initialized conversion of CBT1036
+2023-08-06 01:04:57.235171 - Received CBT.V505.FILE1036.PDS from FILE1036.XMI 
+2023-08-06 01:04:57.237667 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE1036.PDS, moved to PDS/$$$#DATE
+2023-08-06 01:04:57.238543 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE1036.PDS, moved to PDS/$PDSLOAD
+2023-08-06 01:04:57.241061 - De-xmi-ed #APPLPGD to CBT1036/docs/#APPLPGD.pdf
+2023-08-06 01:04:57.243404 - De-xmi-ed #INSCUST to CBT1036/docs/#INSCUST.pdf
+2023-08-06 01:04:57.243458 - Found #PDSLOAD.bin containing application/octet-stream, moved to PDS/#PDSLOAD
+2023-08-06 01:04:57.245249 - Found @FIL1036.txt (text/plain) in CBT.V505.FILE1036.PDS, moved to PDS/@FIL1036
+2023-08-06 01:04:57.247888 - Found ASM.txt (text/plain) in CBT.V505.FILE1036.PDS, moved to PDS/ASM
+2023-08-06 01:04:57.247897 - Found CNTL.bin containing application/octet-stream, moved to PDS/CNTL
+2023-08-06 01:04:57.265061 - Found LOADLIB.xmi (application/xmit) in CBT.V505.FILE1036.PDS
+2023-08-06 01:04:57.275907   - Received RECFM=U data, stored XMIT file as CBT1036/LOADLIB.xmi
+2023-08-06 01:04:57.276908 - Found MACLIB.txt (text/plain) in CBT.V505.FILE1036.PDS, moved to PDS/MACLIB
+2023-08-06 01:04:57.505204 - Found SORTLIB.xmi (application/xmit) in CBT.V505.FILE1036.PDS
+2023-08-06 01:04:57.700200   - Received RECFM=U data, stored XMIT file as CBT1036/SORTLIB.xmi
